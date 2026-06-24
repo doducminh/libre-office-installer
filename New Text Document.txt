@@ -1,4 +1,0 @@
-.\Setup-LibreOffice.ps1 -SiteName "localhost:44312" -AppPoolName "localhost:44312"
-chmod +x setup-libreoffice.sh
-sudo ./setup-libreoffice.sh --service-user www-data    # Linux
-./setup-libreoffice.sh                                  # macOS (Homebrew, no sudo)
